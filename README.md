@@ -1,5 +1,5 @@
 # WorkingWithHunters-Form-validation-using-js
-**** Live Site : ** https://hunter-420.github.io/WorkingWithHunters-Form-validation-using-js/
+** Live Site : **  https://hunter-420.github.io/WorkingWithHunters-Form-validation-using-js/
 
 To perform form validation using JavaScript with HTML, you can use the following steps:
 
